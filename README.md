@@ -5,20 +5,19 @@
   Hi, I'm <strong>Aadarson</strong>
 </h1>
 
-<h3>Full Stack Developer | MERN • Python • Flutter</h3>
+<h3>AI/ML enthusiast | NINE • Python • SQL</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+   AI/ML programmers design and build intelligent systems that can learn from data and make predictions or decisions automatically. They develop models, train algorithms, and optimize machine learning solutions for real-world applications.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:aadarsonbbg@gmail.com"><img src="https://img.shields.io/badge/📧_aadarsonbbg@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(AI/ML projects)-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
 
@@ -77,16 +76,11 @@
 </table>
 </p>
 
-
-
-
-
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Aadarson&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Aadarson2005&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
