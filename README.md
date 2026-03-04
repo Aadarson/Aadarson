@@ -80,7 +80,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Aadarson2005&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Aadarson&theme=dark&hide_border=true" alt="Streak" />
 </div>
 
 ---
