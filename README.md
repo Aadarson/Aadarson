@@ -34,7 +34,7 @@
   </a>
 
   
-  <a href="https://linkedin.com/in/Aadarson S">
+  <a href="[https://linkedin.com/in/Aadarson S](https://www.linkedin.com/in/aadarson1305/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
