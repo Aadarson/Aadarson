@@ -54,7 +54,7 @@
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=tensorflow,docker,FastAPI,flask" />
+<img src="https://skillicons.dev/icons?i=tensorflow,docker,flask" />
 </td>
 
 
@@ -70,7 +70,7 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman" />
 </td>
 </tr>
 </table>
