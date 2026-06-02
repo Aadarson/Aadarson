@@ -54,7 +54,7 @@
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=tensorflow,OpenCV,Pandas,NumPy" />
+<img src="https://skillicons.dev/icons?i=tensorflow,docker,fastAPI,flask" />
 </td>
 
 
